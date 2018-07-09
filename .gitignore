@@ -1,0 +1,17 @@
+# ignore the data folder
+data/
+
+#
+# ignore all other unnecessary code
+#
+# ignore jupyter notebook cache
+/*.ipynb
+_pycache_/
+.ipynb_checkpoints/
+# ignore all images
+image/
+images/
+/*.png
+/*.jpg
+/*.jpeg
+/*.bmp
